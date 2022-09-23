@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chopin44" alt="chopin44" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript, Web Delopment**
+- 🌱 I’m currently learning **Javascript, Web Development**
 
 - 💬 Ask me about **Movies, Games, or Technologies**
 
